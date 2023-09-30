@@ -1,0 +1,26 @@
+
+		**** WELCOME TO LAROUSSI SUPERMARKET **** 
+
+ Bill Number : 589
+ Customer Name : laroussi
+ Customer Phone Number : 0541111111
+
+ =============================================================
+ Product			Quantity			Price
+ =============================================================
+ Gel Douche			4			80 DA
+ False Eyelashes			1			65 DA
+ Lipstick			3			165 DA
+ Rice			5			1000 DA
+ Beans			9			180 DA
+ Maize			3			165 DA
+ Cheese			6			480 DA
+ Dry Milk			2			130 DA
+ Cheddar Cheese			8			600 DA
+ -------------------------------------------------------------
+ Cosmetics Tax :			31.0 DA
+ Grocery Tax :			67.25 DA
+ Milk Tax :			121.0 DA
+
+ Amount Total :			3084.25
+ -------------------------------------------------------------

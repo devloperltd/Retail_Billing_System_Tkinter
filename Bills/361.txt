@@ -1,0 +1,29 @@
+
+		**** WELCOME TO LAROUSSI SUPERMARKET **** 
+
+ Bill Number : 361
+ Customer Name : Laroussi
+ Customer Phone Number : 05510000000
+
+ =============================================================
+ Product			Quantity			Price
+ =============================================================
+ Gel Douche			4			80 DA
+ Facial Masks			5			200 DA
+ Deodorants			2			20 DA
+ Sun Eucerin			1			45 DA
+ Rice			1			200 DA
+ Wheat			1			60 DA
+ Beans			3			60 DA
+ Maize			6			330 DA
+ Cheese			1			80 DA
+ Dry Milk			2			130 DA
+ Mzzarella			4			220 DA
+ Butter			3			60 DA
+ -------------------------------------------------------------
+ Cosmetics Tax :			34.5 DA
+ Grocery Tax :			32.5 DA
+ Milk Tax :			49.0 DA
+
+ Amount Total :			1601.0
+ -------------------------------------------------------------
